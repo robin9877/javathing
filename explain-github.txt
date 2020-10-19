@@ -1,0 +1,7 @@
+git 远程操作提交
+1 git remote add origin git@github.com:michaelliao/learngit.git（远程库设置）
+2 git status （检查状态）
+3 git add  文件名(提交到暂存区)
+4 git commit -m “  说明 ”   "提交记录说明"
+5 git status (状态)
+6 git push -u origin master（提交到远程仓库）
